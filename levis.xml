@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   Lévis
+  </title>
+  <language>
+   fr-ca
+  </language>
+  <item>
+   <title>
+    Levis - Matières Recyclables (p. 8)
+   </title>
+   <link>
+    https://www.ville.levis.qc.ca/uploads/media/2-CV-2023-05-23-PV.pdf
+   </link>
+   <guid>
+    https://www.ville.levis.qc.ca/uploads/media/2-CV-2023-05-23-PV.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*et le transport des {{matières recyclables}} en CCA Document d’a*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+ </channel>
+</rss>

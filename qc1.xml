@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   Québec (CA)
+  </title>
+  <language>
+   fr-ca
+  </language>
+  <item>
+   <title>
+    Quebec (CA) - Régie, De Gestion Des Matières Résiduelles (p. 7)
+   </title>
+   <link>
+    https://gpddocs.ville.quebec.qc.ca/gpdblob/PV_CAG_PL_2023-06-07_14h00.pdf
+   </link>
+   <guid>
+    https://gpddocs.ville.quebec.qc.ca/gpdblob/PV_CAG_PL_2023-06-07_14h00.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*lle de Québec et La {{régie}} de gestion des mati*... //// ...* Québec et La Régie {{de gestion des matières résiduelles}} de la Mauricie, rel*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+  <item>
+   <title>
+    Quebec (CA) - Régie, De Gestion Des Matières Résiduelles (p. 2)
+   </title>
+   <link>
+    https://gpddocs.ville.quebec.qc.ca/gpdblob/PV_CAG_PL_2023-05-03_13h00.pdf
+   </link>
+   <guid>
+    https://gpddocs.ville.quebec.qc.ca/gpdblob/PV_CAG_PL_2023-05-03_13h00.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*lle de Québec et la {{régie}} régionale de gestio*... //// ...* la Régie régionale {{de gestion des matières résiduelles}} de Portneuf, relati*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+ </channel>
+</rss>

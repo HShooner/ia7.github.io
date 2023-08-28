@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   Fjord-du-Saguenay
+  </title>
+  <language>
+   fr-ca
+  </language>
+  <item>
+   <title>
+    Fjord-du-Saguenay - Conteneurs (p. 2)
+   </title>
+   <link>
+    https://mrc-fjord.qc.ca/app/uploads/2023/06/Resume-du-conseil-9-mai.pdf
+   </link>
+   <guid>
+    https://mrc-fjord.qc.ca/app/uploads/2023/06/Resume-du-conseil-9-mai.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*pour la location de {{conteneurs}}, le transport et le*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+  <item>
+   <title>
+    Fjord-du-Saguenay - Conteneurs (p. 2)
+   </title>
+   <link>
+    https://mrc-fjord.qc.ca/app/uploads/2023/04/Pour-le-12-avril-2023.pdf
+   </link>
+   <guid>
+    https://mrc-fjord.qc.ca/app/uploads/2023/04/Pour-le-12-avril-2023.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*achat de différents {{conteneurs}} de déchets et recyc*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+ </channel>
+</rss>

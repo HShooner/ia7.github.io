@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   Montréal (CM)
+  </title>
+  <language>
+   fr-ca
+  </language>
+  <item>
+   <title>
+    Montreal (CM) - Tri,  Recyclage (p. 17)
+   </title>
+   <link>
+    https://ville.montreal.qc.ca/sel/adi-public/afficherpdf/fichier.pdf?typeDoc=pv&amp;doc=7357
+   </link>
+   <guid>
+    https://ville.montreal.qc.ca/sel/adi-public/afficherpdf/fichier.pdf?typeDoc=pv&amp;doc=7357
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*ur la réception, le {{tri}} et la valorisation *... //// ...*trat accordé à Multi{{ recyclage}} S.D. (CG20 0266), m*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+ </channel>
+</rss>

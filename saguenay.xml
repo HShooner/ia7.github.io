@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   Saguenay
+  </title>
+  <language>
+   fr-ca
+  </language>
+  <item>
+   <title>
+    Saguenay - Matières Recyclables (p. 27)
+   </title>
+   <link>
+    https://ville.saguenay.ca/files/AA_proces_verbaux/conseil_municipal/2023/2023_02_07_proces_verbal_59_a_115.pdf
+   </link>
+   <guid>
+    https://ville.saguenay.ca/files/AA_proces_verbaux/conseil_municipal/2023/2023_02_07_proces_verbal_59_a_115.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*E DE TRAITEMENT DES {{matières recyclables}} (RÈGLEMENTS VS-R-20*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+  <item>
+   <title>
+    Saguenay - Conteneurs (p. 3)
+   </title>
+   <link>
+    https://ville.saguenay.ca/files/AA_proces_verbaux/conseil_municipal/2023/2023_01_17_proces_verbal_1_a_58.pdf
+   </link>
+   <guid>
+    https://ville.saguenay.ca/files/AA_proces_verbaux/conseil_municipal/2023/2023_01_17_proces_verbal_1_a_58.pdf
+   </guid>
+   <pubDate>
+    Fri, 25 Aug 2023 00:00:00 UTC
+   </pubDate>
+   <description>
+    ...*tions relatives aux {{conteneurs}} maritimes pour perm*...
+   </description>
+   <category>
+    Procès-verbaux
+   </category>
+  </item>
+ </channel>
+</rss>
